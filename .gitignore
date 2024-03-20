@@ -1,0 +1,8 @@
+.env
+node_modules/*
+.vscode/*
+codeFix.js
+exampleScript.js
+server-backup.js
+example.html
+index.html
